@@ -2,7 +2,7 @@
 name = "langgraph-react"
 version = "0.1.0"
 description = ""
-authors = ["Eden Marco <emarco177@gmail.com>"]
+authors = ["David Gadyan <davidgadyan92@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

@@ -37,10 +37,10 @@ app = flow.compile()
 app.get_graph().draw_mermaid_png(output_file_path="graph.png")
 
 if __name__ == "__main__":
-    print("Hello ReAct with LangGraph")
+    print("ReAct with LangGraph")
     res = app.invoke(
         input={
-            "input": "what is the weather in sf? List it and then Triple it ",
+            "input": "what is the weather in Yerevan June 29 2025? List it and then Triple it ",
         }
     )
     print(res["agent_outcome"].return_values["output"])
