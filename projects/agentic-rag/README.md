@@ -40,7 +40,7 @@ A smart, AI-powered retrieval-augmented generation (RAG) system that extracts th
 ---
 
 <details>
-<summary>RAG AGENT Output</summary>
+<summary>🚩RAG AGENT Output</summary>
 
 ================================== Ai Message ==================================
 
