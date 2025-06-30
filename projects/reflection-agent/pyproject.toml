@@ -2,7 +2,7 @@
 name = "reflection-agent"
 version = "0.1.0"
 description = "Reflection agent with LangGraph"
-authors = ["David Gadyan"]
+authors = ["David Gadyan <davidgadyan92@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
