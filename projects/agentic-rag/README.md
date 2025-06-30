@@ -37,6 +37,10 @@ A smart, AI-powered retrieval-augmented generation (RAG) system that extracts th
 
 ![Graph](https://github.com/DavitGadyan/LangGraph/blob/main/projects/agentic-rag/diagram.png)
 
+### Below you cna observe how much it costed for one call to OPENAI API based on LangSmith stats. Monitoring of costs and time latencey is extremely important for LLM optimization and cost-effective system!
+![LangSmith](https://github.com/DavitGadyan/LangGraph/blob/main/projects/agentic-rag/Langsmith_rag_agent.png)
+
+
 ---
 
 <details>
