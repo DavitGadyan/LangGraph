@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "langgraph-deepseek-agent"
+version = "0.1.0"
+description = ""
+authors = ["David Gadyan <davidgadyan92@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "*"
+langgraph = "*"
+langchain-openai = "*"
+langchainhub = "*"
+black = "*"
+isort = "*"
+python-dotenv = "*"
+langchain-community = "*"
+langchain-text-splitters = "*"
+beautifulsoup4 = "^4.13.4"
+ipython = "^9.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
