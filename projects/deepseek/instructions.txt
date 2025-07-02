@@ -1,0 +1,2 @@
+ Run curl -fsSL https://ollama.com/install.sh | sh to complete instalation with GPU
+
