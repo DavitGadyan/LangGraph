@@ -1,5 +1,6 @@
 # 🚀 LangGraph Project Showcase
 
+### Date: 2025-07-02
 
 | Model / Provider             | Open-Source? | Size            | Licensing / Pricing               | Native Func-Call | LangChain Integration                   | LangGraph Integration                   | Multi-Agent Suitability             | Cost (High-End/Reasoning) $/1K-tk | Cost (Std/Ordinary) $/1K-tk | Pros                                                                          | Cons                                                                             |
 |------------------------------|--------------|-----------------|-----------------------------------|------------------|-----------------------------------------|------------------------------------------|------------------------------------|-------------------------------|-----------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -25,7 +26,8 @@ A curated list of example projects built with **LangGraph**, demonstrating commo
 - **🤖 ReACT Agent**  
   A “Reason & Act” loop that alternates internal reasoning steps with tool invocations. Ideal for tasks that require on-the-fly API calls, custom functions, or search tools.
 
-- **🤖 Deekseek**  
+- **🤖 Deepseek** 
+Open source model can run locally, no native tool support with LangChain
 
 - **💭 Reflection Agent**  
   A two-node graph that alternates between generating content and self-critiquing it. Useful for iterative improvement of creative outputs like tweets, blog posts, or marketing copy.
